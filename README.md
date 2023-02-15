@@ -6,6 +6,21 @@ Comet works with existing ML libraries and has built-in team collaboration, Come
 
 Installation
 
+```python
+# For Comet to start tracking a training run,
+# just add these two lines at the top of
+# your training script:
+import comet_ml
+
+experiment = comet_ml.Experiment(
+    api_key="<Your API Key>",
+    project_name="<Your Project Name>"
+)
+
+# Metrics from this training run will now be
+# available in the Comet UI
+```
+
 ## What is Cell imaging ⛓
 
 

@@ -18,6 +18,9 @@ pip install comet_ml
 conda install -c anaconda -c conda-forge -c comet_ml comet_ml
 ```
 
+`Notebook and Google Colab`
+
+
 
 ```python
 # For Comet to start tracking a training run,

@@ -20,6 +20,10 @@ conda install -c anaconda -c conda-forge -c comet_ml comet_ml
 
 `Notebook and Google Colab`
 
+```python
+%pip install comet_ml
+```
+
 
 
 ```python

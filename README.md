@@ -12,17 +12,19 @@ Installation
 pip install comet_ml
 ```
 
+`Notebook and Google Colab`
+
+```python
+%pip install comet_ml
+```
+
 `Conda`
 
 ```python
 conda install -c anaconda -c conda-forge -c comet_ml comet_ml
 ```
 
-`Notebook and Google Colab`
 
-```python
-%pip install comet_ml
-```
 
 ## Create an Experiment and log to Comet
 

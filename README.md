@@ -5,12 +5,18 @@ Active Learning with Comet for Cell Imaging
 Comet works with existing ML libraries and has built-in team collaboration, Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
 
 Installation
+
 `pip`
 
 ```python
 pip install comet_ml
 ```
 
+`Conda`
+
+```python
+conda install -c anaconda -c conda-forge -c comet_ml comet_ml
+```
 
 
 ```python

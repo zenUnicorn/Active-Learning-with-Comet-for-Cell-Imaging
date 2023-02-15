@@ -3,6 +3,8 @@ Active Learning with Comet for Cell Imaging
 
 ## Comet
 
+Installation
+
 ## What is Cell imaging ⛓
 
 

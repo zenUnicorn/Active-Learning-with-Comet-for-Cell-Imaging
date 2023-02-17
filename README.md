@@ -49,5 +49,7 @@ Cell imaging refers to the process of producing images of cells using various im
 
 These images can be used for a wide range of purposes, including medical diagnosis, research, and education. By visualizing cells and their internal structures, researchers and medical professionals can gain a better understanding of the behavior of cells, the causes and effects of diseases, and the effectiveness of treatments. 
 
+Cell imaging plays a critical role in many fields, including biology, biotechnology, medical science, and pharmacology.
+
 
 Built with ❤ Python

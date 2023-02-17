@@ -45,7 +45,7 @@ experiment = comet_ml.Experiment(
 ```
 
 ## What is Cell imaging ⛓
-
+Cell imaging refers to the process of producing images of cells using various imaging techniques such as microscopy, magnetic resonance imaging (MRI), computed tomography (CT), and others. 
 
 
 Built with ❤ Python

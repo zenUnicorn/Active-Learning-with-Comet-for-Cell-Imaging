@@ -2,6 +2,11 @@
 
 Active Learning with Comet for Cell Imaging
 
+## What is Cell imaging ⛓
+Cell imaging refers to the process of producing images of cells using various imaging techniques such as microscopy, magnetic resonance imaging (MRI), computed tomography (CT), and others. 
+
+
+
 
 ## Comet
 Comet works with existing ML libraries and has built-in team collaboration, Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.

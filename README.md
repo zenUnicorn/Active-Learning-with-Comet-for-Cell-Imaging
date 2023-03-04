@@ -5,6 +5,7 @@ Active Learning with Comet for Cell Imaging
 ## What is Cell imaging ⛓
 Cell imaging refers to the process of producing images of cells using various imaging techniques such as microscopy, magnetic resonance imaging (MRI), computed tomography (CT), and others. 
 
+These images can be used for a wide range of purposes, including medical diagnosis, research, and education. By visualizing cells and their internal structures, researchers and medical professionals can gain a better understanding of the behavior of cells, the causes and effects of diseases, and the effectiveness of treatments. 
 
 
 

@@ -8,7 +8,7 @@ Comet works with existing ML libraries and has built-in team collaboration, Come
 
 Installation
 
-`pip`
+**pip**
 
 ```python
 pip install comet_ml

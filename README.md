@@ -20,7 +20,7 @@ pip install comet_ml
 %pip install comet_ml
 ```
 
-conda
+**conda**
 
 ```python
 conda install -c anaconda -c conda-forge -c comet_ml comet_ml
